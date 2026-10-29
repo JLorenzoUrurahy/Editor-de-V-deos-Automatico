@@ -1,0 +1,34 @@
+{
+ "tipo": "contagem",
+ "layout": "interage",
+ "foto": "rosto",
+ "dur_s": 4.0,
+ "rosto": {
+  "x": 301,
+  "y": 753,
+  "w": 456,
+  "h": 456
+ },
+ "props": {
+  "itens": [
+   {
+    "texto": "DENTISTA",
+    "em": 0.4
+   },
+   {
+    "texto": "MÉDICO",
+    "em": 1.2
+   },
+   {
+    "texto": "FINANCEIRO",
+    "em": 2.0
+   }
+  ]
+ },
+ "textos": [
+  "DENTISTA",
+  "MÉDICO",
+  "FINANCEIRO"
+ ],
+ "n": 1
+}

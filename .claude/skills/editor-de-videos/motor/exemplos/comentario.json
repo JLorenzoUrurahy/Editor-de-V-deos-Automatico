@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 3.6,
+ "props": {"palavra": "QUERO", "rotulo": "COMENTA AQUI", "em": 0.6},
+ "textos": ["QUERO", "COMENTA AQUI"]
+}

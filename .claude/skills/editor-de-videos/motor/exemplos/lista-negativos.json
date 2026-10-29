@@ -1,0 +1,38 @@
+{
+ "tipo": "lista",
+ "layout": "metade",
+ "dur_s": 3.2,
+ "props": {
+  "titulo": "Sem",
+  "todos_visiveis": true,
+  "itens": [
+   {
+    "texto": "Editar na mão",
+    "em": 0.6,
+    "negativo": true
+   },
+   {
+    "texto": "Pagar caro",
+    "em": 1.1,
+    "negativo": true
+   },
+   {
+    "texto": "Esperar dias",
+    "em": 1.6,
+    "negativo": true
+   },
+   {
+    "texto": "Postar hoje",
+    "em": 2.2,
+    "negativo": false
+   }
+  ]
+ },
+ "textos": [
+  "Sem",
+  "Editar na mão",
+  "Pagar caro",
+  "Esperar dias",
+  "Postar hoje"
+ ]
+}

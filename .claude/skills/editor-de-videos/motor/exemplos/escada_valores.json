@@ -1,0 +1,8 @@
+{
+ "layout": "metade",
+ "dur_s": 4.5,
+ "props": {"rotulo": "VENDENDO POR", "itens": [
+  {"texto": "R$ 39", "valor": 39, "em": 0.6}, {"texto": "R$ 79", "valor": 79, "em": 1.4},
+  {"texto": "R$ 149", "valor": 149, "em": 2.2}, {"texto": "R$ 299", "valor": 299, "em": 3.0}]},
+ "textos": ["VENDENDO POR", "R$ 39", "R$ 79", "R$ 149", "R$ 299"]
+}

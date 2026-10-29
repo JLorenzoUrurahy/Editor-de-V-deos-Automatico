@@ -1,0 +1,22 @@
+{
+ "tipo": "navegador",
+ "layout": "tela",
+ "dur_s": 4.0,
+ "props": {
+  "imagem": "midia/telas-pagina.png",
+  "endereco": "seusite.example",
+  "rotulo": "OLHA O BOTÃO",
+  "rolar": false,
+  "destaque": {
+   "x": 0.07,
+   "y": 0.525,
+   "w": 0.3,
+   "h": 0.115
+  },
+  "em_destaque": 1.6
+ },
+ "textos": [
+  "seusite.example",
+  "OLHA O BOTÃO"
+ ]
+}

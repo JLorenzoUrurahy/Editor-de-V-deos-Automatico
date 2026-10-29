@@ -1,0 +1,23 @@
+{
+ "layout": "metade",
+ "dur_s": 3.8,
+ "props": {
+  "antes": {
+   "titulo": "antes",
+   "texto": "8 horas",
+   "icone": "Clock"
+  },
+  "depois": {
+   "titulo": "depois",
+   "texto": "15 min",
+   "icone": "Zap"
+  },
+  "em": 1.7
+ },
+ "textos": [
+  "antes",
+  "8 horas",
+  "depois",
+  "15 min"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "layout": "metade",
+ "dur_s": 3.8,
+ "props": {
+  "de": "8 horas",
+  "para": "15 minutos",
+  "legenda_de": "planilha",
+  "legenda_para": "com IA",
+  "em_para": 1.7
+ },
+ "textos": [
+  "8 horas",
+  "15 minutos",
+  "planilha",
+  "com IA"
+ ]
+}

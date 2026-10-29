@@ -1,0 +1,16 @@
+{
+ "tipo": "de_para",
+ "layout": "tela",
+ "dur_s": 3.8,
+ "props": {
+  "de": "2 clientes",
+  "para": "20 clientes",
+  "rotulo": "POR SEMANA",
+  "em_para": 1.7
+ },
+ "textos": [
+  "2 clientes",
+  "20 clientes",
+  "POR SEMANA"
+ ]
+}

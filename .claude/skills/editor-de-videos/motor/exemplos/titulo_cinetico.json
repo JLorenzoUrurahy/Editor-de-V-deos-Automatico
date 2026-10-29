@@ -1,0 +1,36 @@
+{
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {
+  "palavras": [
+   {
+    "texto": "Comece",
+    "em": 0.3
+   },
+   {
+    "texto": "hoje",
+    "em": 0.55
+   },
+   {
+    "texto": "pelo",
+    "em": 0.75
+   },
+   {
+    "texto": "mais",
+    "em": 0.9
+   },
+   {
+    "texto": "simples.",
+    "em": 1.1,
+    "destaque": true
+   }
+  ]
+ },
+ "textos": [
+  "Comece",
+  "hoje",
+  "pelo",
+  "mais",
+  "simples."
+ ]
+}

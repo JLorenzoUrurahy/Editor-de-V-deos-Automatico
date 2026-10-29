@@ -1,0 +1,40 @@
+{
+ "layout": "metade",
+ "dur_s": 4.5,
+ "props": {
+  "rotulo": "FATURAMENTO",
+  "pontos": [
+   {
+    "texto": "R$ 2 mil",
+    "rotulo": "jan",
+    "em": 0.6
+   },
+   {
+    "texto": "R$ 5 mil",
+    "rotulo": "fev",
+    "em": 1.3
+   },
+   {
+    "texto": "R$ 9 mil",
+    "rotulo": "mar",
+    "em": 2.0
+   },
+   {
+    "texto": "R$ 18 mil",
+    "rotulo": "abr",
+    "em": 2.8
+   }
+  ]
+ },
+ "textos": [
+  "FATURAMENTO",
+  "R$ 2 mil",
+  "jan",
+  "R$ 5 mil",
+  "fev",
+  "R$ 9 mil",
+  "mar",
+  "R$ 18 mil",
+  "abr"
+ ]
+}

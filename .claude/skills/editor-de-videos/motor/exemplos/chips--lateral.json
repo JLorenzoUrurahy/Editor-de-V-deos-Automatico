@@ -1,0 +1,3 @@
+{"tipo": "chips", "layout": "sobre", "dur_s": 2.6, "caixa": {"x": 108, "y": 600, "w": 170, "h": 520}, "rosto": {"x": 301, "y": 753, "w": 456, "h": 456}, "n": 1,
+ "props": {"itens": [{"texto": "E-MAIL", "icone": "Mail", "em": 0.4}, {"texto": "AGENDA", "icone": "Calendar", "em": 0.9}, {"texto": "PLANILHA", "icone": "Sheet", "em": 1.4}]},
+ "textos": ["E-MAIL", "AGENDA", "PLANILHA"]}

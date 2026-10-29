@@ -1,0 +1,9 @@
+{
+ "tipo": "rede",
+ "layout": "tela",
+ "dur_s": 4.0,
+ "props": {"rotulo": "TUDO CONECTADO", "centro": {"icone": "Workflow"}, "nos": [
+  {"icone": "Mail", "em": 0.6}, {"icone": "Calendar", "em": 0.8}, {"icone": "Database", "em": 1.0}, {"icone": "ShoppingCart", "em": 1.2},
+  {"icone": "MessageCircle", "em": 1.4}, {"icone": "FileText", "em": 1.6}, {"icone": "Globe", "em": 1.8}, {"icone": "Zap", "em": 2.0}]},
+ "textos": ["TUDO CONECTADO"]
+}

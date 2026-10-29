@@ -1,0 +1,49 @@
+{
+ "tipo": "grade_icones",
+ "layout": "metade",
+ "dur_s": 2.6,
+ "props": {
+  "titulo": "Seja você",
+  "itens": [
+   {
+    "icone": "Toothbrush",
+    "texto": "Dentista",
+    "em": 0.3
+   },
+   {
+    "icone": "Stethoscope",
+    "texto": "Médico",
+    "em": 0.55
+   },
+   {
+    "icone": "Landmark",
+    "texto": "Financeiro",
+    "em": 0.8
+   },
+   {
+    "icone": "Scale",
+    "texto": "Advogado",
+    "em": 1.05
+   },
+   {
+    "icone": "House",
+    "texto": "Imobiliária",
+    "em": 1.3
+   },
+   {
+    "icone": "Store",
+    "texto": "Loja",
+    "em": 1.55
+   }
+  ]
+ },
+ "textos": [
+  "Seja você",
+  "Dentista",
+  "Médico",
+  "Financeiro",
+  "Advogado",
+  "Imobiliária",
+  "Loja"
+ ]
+}

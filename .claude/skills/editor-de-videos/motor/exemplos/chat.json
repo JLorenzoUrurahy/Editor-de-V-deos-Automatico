@@ -1,0 +1,9 @@
+{
+ "layout": "metade",
+ "dur_s": 5.0,
+ "props": {"nome": "Assistente", "mensagens": [
+  {"de": "pessoa", "texto": "Edita esse vídeo pra mim", "em": 0.5},
+  {"de": "ia", "texto": "Pronto: cortei os erros e coloquei legenda.", "em": 2.0},
+  {"de": "pessoa", "texto": "Perfeito!", "em": 3.4}]},
+ "textos": ["Assistente", "Edita esse vídeo pra mim", "Pronto: cortei os erros e coloquei legenda.", "Perfeito!"]
+}

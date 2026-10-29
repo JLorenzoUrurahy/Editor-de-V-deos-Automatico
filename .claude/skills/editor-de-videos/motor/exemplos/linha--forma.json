@@ -1,0 +1,15 @@
+{
+ "tipo": "linha",
+ "layout": "metade",
+ "dur_s": 3.8,
+ "props": {
+  "rotulo": "CUSTO POR CLIENTE",
+  "final": "-40%",
+  "em": 2.4,
+  "variante": "queda"
+ },
+ "textos": [
+  "CUSTO POR CLIENTE",
+  "-40%"
+ ]
+}

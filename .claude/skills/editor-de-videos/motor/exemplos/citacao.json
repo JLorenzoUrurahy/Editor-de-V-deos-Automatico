@@ -1,0 +1,14 @@
+{
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {
+  "texto": "Quem grava toda semana aprende mais rápido.",
+  "destaque": [
+   "semana"
+  ],
+  "em": 0.4
+ },
+ "textos": [
+  "Quem grava toda semana aprende mais rápido."
+ ]
+}

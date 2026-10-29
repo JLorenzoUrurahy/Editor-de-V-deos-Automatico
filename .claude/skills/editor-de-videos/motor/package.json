@@ -1,0 +1,27 @@
+{
+  "name": "editor-de-videos-motor",
+  "version": "1.0.0",
+  "description": "Motor de composição do editor de vídeos (Remotion): toca a timeline gerada pelos scripts da skill.",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/fonts": "4.0.532",
+    "@remotion/layout-utils": "4.0.532",
+    "d3-geo": "3.1.1",
+    "lucide-react": "1.52.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "3.1.0",
+    "@types/geojson": "7946.0.16",
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "estudio": "remotion studio",
+    "tsc": "tsc --noEmit"
+  }
+}

@@ -1,0 +1,33 @@
+{
+ "layout": "metade",
+ "dur_s": 4.2,
+ "props": {
+  "rotulo": "ALCANCE POR FORMATO",
+  "itens": [
+   {
+    "rotulo": "Vídeo",
+    "texto": "62%",
+    "em": 0.6
+   },
+   {
+    "rotulo": "Carrossel",
+    "texto": "25%",
+    "em": 1.4
+   },
+   {
+    "rotulo": "Foto",
+    "texto": "13%",
+    "em": 2.2
+   }
+  ]
+ },
+ "textos": [
+  "ALCANCE POR FORMATO",
+  "Vídeo",
+  "62%",
+  "Carrossel",
+  "25%",
+  "Foto",
+  "13%"
+ ]
+}

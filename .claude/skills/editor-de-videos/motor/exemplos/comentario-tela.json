@@ -1,0 +1,7 @@
+{
+ "tipo": "comentario",
+ "layout": "tela",
+ "dur_s": 3.4,
+ "props": {"palavra": "guia", "em": 0.5},
+ "textos": ["guia"]
+}

@@ -1,0 +1,15 @@
+{
+ "layout": "metade",
+ "dur_s": 3.4,
+ "props": {
+  "texto": "73%",
+  "rotulo": "DAS TAREFAS",
+  "legenda": "automatizadas",
+  "em": 1.6
+ },
+ "textos": [
+  "73%",
+  "DAS TAREFAS",
+  "automatizadas"
+ ]
+}

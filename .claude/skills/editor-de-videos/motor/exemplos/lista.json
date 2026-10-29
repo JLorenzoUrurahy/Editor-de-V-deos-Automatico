@@ -1,0 +1,30 @@
+{
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {
+  "itens": [
+   {
+    "texto": "Corta os erros",
+    "em": 0.4
+   },
+   {
+    "texto": "Legenda sozinha",
+    "em": 0.9
+   },
+   {
+    "texto": "Voz no volume certo",
+    "em": 1.4
+   },
+   {
+    "texto": "Pronto para postar",
+    "em": 1.9
+   }
+  ]
+ },
+ "textos": [
+  "Corta os erros",
+  "Legenda sozinha",
+  "Voz no volume certo",
+  "Pronto para postar"
+ ]
+}

@@ -1,0 +1,7 @@
+{
+ "tipo": "globo",
+ "layout": "tela",
+ "dur_s": 3.8,
+ "props": {"pais": "JP", "rotulo": "VENDAS NO JAPÃO", "pinos": [{"pais": "JP", "rotulo": "TÓQUIO"}]},
+ "textos": ["VENDAS NO JAPÃO", "TÓQUIO"]
+}

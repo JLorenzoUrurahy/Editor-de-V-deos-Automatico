@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 4.5,
+ "props": {"texto": "Edita meu vídeo e coloca legenda", "rotulo": "É SÓ PEDIR", "em_inicio": 0.5, "em_enviar": 2.4},
+ "textos": ["Edita meu vídeo e coloca legenda", "É SÓ PEDIR"]
+}

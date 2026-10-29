@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 4.0,
+ "props": {"total": 30, "destaque": "+30", "rotulo": "MODELOS", "em": 1.6},
+ "textos": ["+30", "MODELOS"]
+}

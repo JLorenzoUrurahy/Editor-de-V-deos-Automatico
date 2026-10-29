@@ -1,0 +1,10 @@
+{
+ "layout": "metade",
+ "dur_s": 4.2,
+ "props": {"rotulo": "COMO CHEGAMOS AQUI", "marcos": [
+  {"quando": "2019", "texto": "PRIMEIRO CLIENTE", "em": 0.4},
+  {"quando": "2021", "texto": "TIME DE 10 PESSOAS", "em": 1.2},
+  {"quando": "2023", "texto": "LANÇAMENTO DO CURSO", "em": 2.0},
+  {"quando": "2025", "texto": "MIL ALUNOS", "em": 2.8}]},
+ "textos": ["COMO CHEGAMOS AQUI", "2019", "PRIMEIRO CLIENTE", "2021", "TIME DE 10 PESSOAS", "2023", "LANÇAMENTO DO CURSO", "2025", "MIL ALUNOS"]
+}

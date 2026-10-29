@@ -1,0 +1,36 @@
+{
+ "tipo": "passos",
+ "layout": "tela",
+ "dur_s": 3.2,
+ "props": {
+  "itens": [
+   {
+    "texto": "Grave",
+    "em": 0.3
+   },
+   {
+    "texto": "Transcreva",
+    "em": 0.8
+   },
+   {
+    "texto": "Corte os erros",
+    "em": 1.3
+   },
+   {
+    "texto": "Legende",
+    "em": 1.8
+   },
+   {
+    "texto": "Publique",
+    "em": 2.3
+   }
+  ]
+ },
+ "textos": [
+  "Grave",
+  "Transcreva",
+  "Corte os erros",
+  "Legende",
+  "Publique"
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 4.5,
+ "props": {"imagem": "midia/telas-pagina.png", "endereco": "seusite.example", "em_inicio": 0.8, "em_fim": 3.6},
+ "textos": ["seusite.example"]
+}

@@ -1,0 +1,28 @@
+{
+ "layout": "metade",
+ "dur_s": 2.6,
+ "props": {
+  "itens": [
+   {
+    "icone": "Toothbrush",
+    "texto": "Dentista",
+    "em": 0.3
+   },
+   {
+    "icone": "Stethoscope",
+    "texto": "Médico",
+    "em": 0.7
+   },
+   {
+    "icone": "Landmark",
+    "texto": "Financeiro",
+    "em": 1.1
+   }
+  ]
+ },
+ "textos": [
+  "Dentista",
+  "Médico",
+  "Financeiro"
+ ]
+}

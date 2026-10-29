@@ -1,0 +1,23 @@
+{
+ "tipo": "percentual",
+ "layout": "tela",
+ "dur_s": 3.6,
+ "props": {
+  "texto": "92%",
+  "legenda": "com IA",
+  "em": 1.8,
+  "rotulo": "TAXA DE ACERTO",
+  "comparar": {
+   "texto": "41%",
+   "legenda": "sem IA",
+   "em": 1.0
+  }
+ },
+ "textos": [
+  "92%",
+  "com IA",
+  "TAXA DE ACERTO",
+  "41%",
+  "sem IA"
+ ]
+}

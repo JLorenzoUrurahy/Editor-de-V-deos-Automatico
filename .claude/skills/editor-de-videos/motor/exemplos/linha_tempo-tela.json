@@ -1,0 +1,10 @@
+{
+ "tipo": "linha_tempo",
+ "layout": "tela",
+ "dur_s": 4.2,
+ "props": {"marcos": [
+  {"quando": "SEGUNDA", "texto": "GRAVA", "em": 0.4}, {"quando": "TERÇA", "texto": "EDITA", "em": 1.0},
+  {"quando": "QUARTA", "texto": "PUBLICA", "em": 1.6}, {"quando": "QUINTA", "texto": "RESPONDE", "em": 2.2},
+  {"quando": "SEXTA", "texto": "MEDE", "em": 2.8}]},
+ "textos": ["SEGUNDA", "GRAVA", "TERÇA", "EDITA", "QUARTA", "PUBLICA", "QUINTA", "RESPONDE", "SEXTA", "MEDE"]
+}

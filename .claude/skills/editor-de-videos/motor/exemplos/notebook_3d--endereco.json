@@ -1,0 +1,7 @@
+{
+ "tipo": "notebook_3d",
+ "layout": "tela",
+ "dur_s": 3.6,
+ "props": {"imagem": "midia/telas-pagina.png", "endereco": "seusite.example", "rotulo": "A PÁGINA NO AR", "em": 1.2},
+ "textos": ["seusite.example", "A PÁGINA NO AR"]
+}

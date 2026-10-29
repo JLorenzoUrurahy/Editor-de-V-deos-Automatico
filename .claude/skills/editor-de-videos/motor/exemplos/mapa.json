@@ -1,0 +1,8 @@
+{
+ "layout": "metade",
+ "dur_s": 4.0,
+ "props": {"regiao": "brasil", "rotulo": "ONDE ESTÃO OS ALUNOS",
+  "destaques": [{"estado": "SP", "em": 0.9}, {"estado": "MG", "em": 1.3}, {"estado": "BA", "em": 1.7}],
+  "pinos": [{"estado": "SP", "rotulo": "SÃO PAULO", "em": 2.2}]},
+ "textos": ["ONDE ESTÃO OS ALUNOS", "SÃO PAULO"]
+}

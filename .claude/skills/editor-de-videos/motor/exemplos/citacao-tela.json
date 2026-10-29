@@ -1,0 +1,17 @@
+{
+ "tipo": "citacao",
+ "layout": "tela",
+ "dur_s": 3.0,
+ "props": {
+  "texto": "Comece pelo vídeo mais simples.",
+  "destaque": [
+   "simples"
+  ],
+  "autor": "Yasmin Vasconcelos",
+  "em": 0.4
+ },
+ "textos": [
+  "Comece pelo vídeo mais simples.",
+  "Yasmin Vasconcelos"
+ ]
+}

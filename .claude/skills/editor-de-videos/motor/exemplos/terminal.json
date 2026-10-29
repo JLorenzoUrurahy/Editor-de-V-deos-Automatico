@@ -1,0 +1,10 @@
+{
+ "layout": "metade",
+ "dur_s": 5.0,
+ "props": {"titulo": "terminal", "linhas": [
+  {"texto": "gerar relatorio vendas", "em": 0.4},
+  {"texto": "lendo a planilha", "em": 1.6, "tipo": "saida"},
+  {"texto": "relatório pronto", "em": 2.6, "tipo": "sucesso"},
+  {"texto": "abrir relatorio.pdf", "em": 3.3}]},
+ "textos": ["terminal", "gerar relatorio vendas", "lendo a planilha", "relatório pronto", "abrir relatorio.pdf"]
+}

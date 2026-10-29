@@ -1,0 +1,46 @@
+{
+ "layout": "metade",
+ "dur_s": 3.6,
+ "props": {
+  "a": {
+   "titulo": "Na mão",
+   "icone": "User",
+   "em": 0.2,
+   "itens": [
+    {
+     "texto": "Dias",
+     "ok": false
+    },
+    {
+     "texto": "R$ 203",
+     "ok": false
+    }
+   ]
+  },
+  "b": {
+   "titulo": "Com IA",
+   "icone": "Bot",
+   "em": 0.9,
+   "itens": [
+    {
+     "texto": "Minutos",
+     "ok": true
+    },
+    {
+     "texto": "R$ 60",
+     "ok": true
+    }
+   ]
+  },
+  "vencedor": "b",
+  "em_vencedor": 2.2
+ },
+ "textos": [
+  "Na mão",
+  "Dias",
+  "R$ 203",
+  "Com IA",
+  "Minutos",
+  "R$ 60"
+ ]
+}

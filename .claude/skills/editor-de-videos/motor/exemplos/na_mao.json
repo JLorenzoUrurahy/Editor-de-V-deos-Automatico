@@ -1,0 +1,90 @@
+{
+ "layout": "interage",
+ "foto": "mao",
+ "dur_s": 3.6,
+ "rosto": {
+  "x": 316,
+  "y": 738,
+  "w": 438,
+  "h": 438
+ },
+ "trilha": {
+  "de": "mao",
+  "passo_f": 3,
+  "pontos": [
+   [
+    860,
+    360,
+    420
+   ],
+   [
+    820,
+    385,
+    433
+   ],
+   [
+    805,
+    395,
+    440
+   ],
+   [
+    840,
+    380,
+    435
+   ],
+   [
+    890,
+    385,
+    414
+   ],
+   [
+    920,
+    392,
+    380
+   ],
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "props": {
+  "icone": "Globe",
+  "texto": "O MUNDO TODO",
+  "em": 0.05
+ },
+ "textos": [
+  "O MUNDO TODO"
+ ],
+ "n": 0
+}

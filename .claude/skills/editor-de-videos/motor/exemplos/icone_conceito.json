@@ -1,0 +1,14 @@
+{
+ "layout": "metade",
+ "dur_s": 2.6,
+ "props": {
+  "icone": "Workflow",
+  "rotulo": "Automação",
+  "apoio": "Sem tarefa repetida",
+  "em": 0.6
+ },
+ "textos": [
+  "Automação",
+  "Sem tarefa repetida"
+ ]
+}

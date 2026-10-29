@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 3.6,
+ "props": {"imagem": "midia/telas-painel.png", "rotulo": "O PAINEL PRONTO", "em": 1.2},
+ "textos": ["O PAINEL PRONTO"]
+}

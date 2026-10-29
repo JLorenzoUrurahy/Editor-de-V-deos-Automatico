@@ -1,0 +1,15 @@
+{
+ "layout": "metade",
+ "dur_s": 3.6,
+ "props": {
+  "texto": "R$ 12.400",
+  "rotulo": "FATURAMENTO",
+  "sub": "em 30 dias",
+  "em": 1.7
+ },
+ "textos": [
+  "R$ 12.400",
+  "FATURAMENTO",
+  "em 30 dias"
+ ]
+}

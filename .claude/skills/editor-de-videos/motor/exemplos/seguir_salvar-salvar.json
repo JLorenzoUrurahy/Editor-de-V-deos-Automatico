@@ -1,0 +1,7 @@
+{
+ "tipo": "seguir_salvar",
+ "layout": "tela",
+ "dur_s": 3.0,
+ "props": {"variante": "salvar", "rotulo": "SALVA ESSE VÍDEO", "em": 1.1},
+ "textos": ["SALVA ESSE VÍDEO"]
+}

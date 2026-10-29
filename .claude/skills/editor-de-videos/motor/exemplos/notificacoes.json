@@ -1,0 +1,10 @@
+{
+ "layout": "metade",
+ "dur_s": 4.5,
+ "props": {"itens": [
+  {"titulo": "Nova venda", "texto": "Curso de fotografia", "icone": "ShoppingCart", "em": 0.4},
+  {"titulo": "Nova venda", "texto": "Curso de fotografia", "icone": "ShoppingCart", "em": 1.3},
+  {"titulo": "Nova venda", "texto": "Curso de fotografia", "icone": "ShoppingCart", "em": 2.1},
+  {"titulo": "Pagamento aprovado", "texto": "R$ 79,00", "icone": "BadgeDollarSign", "em": 2.9}]},
+ "textos": ["Nova venda", "Curso de fotografia", "Pagamento aprovado", "R$ 79,00"]
+}

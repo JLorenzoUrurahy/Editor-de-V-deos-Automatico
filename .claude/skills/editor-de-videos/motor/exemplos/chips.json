@@ -1,0 +1,3 @@
+{"layout": "sobre", "dur_s": 2.6, "caixa": {"x": 108, "y": 300, "w": 810, "h": 224}, "rosto": {"x": 301, "y": 753, "w": 456, "h": 456}, "n": 0,
+ "props": {"itens": [{"texto": "DENTISTA", "icone": "Toothbrush", "em": 0.4}, {"texto": "MÉDICO", "icone": "Stethoscope", "em": 0.9}, {"texto": "FINANCEIRO", "icone": "Landmark", "em": 1.4}]},
+ "textos": ["DENTISTA", "MÉDICO", "FINANCEIRO"]}

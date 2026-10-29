@@ -1,0 +1,8 @@
+{
+ "tipo": "prompt",
+ "layout": "tela",
+ "dur_s": 5.5,
+ "props": {"texto": "Faz um resumo da reunião de hoje", "em_inicio": 0.4, "em_enviar": 2.2,
+           "resultado": ["Decisões tomadas", "Quem faz o quê", "E-mail de follow-up"], "em_resultado": 2.8},
+ "textos": ["Faz um resumo da reunião de hoje", "Decisões tomadas", "Quem faz o quê", "E-mail de follow-up"]
+}

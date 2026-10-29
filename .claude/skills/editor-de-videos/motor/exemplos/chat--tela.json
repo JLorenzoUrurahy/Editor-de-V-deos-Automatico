@@ -1,0 +1,11 @@
+{
+ "tipo": "chat",
+ "layout": "tela",
+ "dur_s": 6.0,
+ "props": {"mensagens": [
+  {"de": "pessoa", "texto": "Monta minha proposta comercial", "em": 0.4},
+  {"de": "ia", "texto": "Para quem é a proposta e qual o valor?", "em": 1.7},
+  {"de": "pessoa", "texto": "Escritório Sete Pedras, R$ 2.500 por mês", "em": 3.0},
+  {"de": "ia", "texto": "Feito. A proposta está pronta para enviar.", "em": 4.4}]},
+ "textos": ["Monta minha proposta comercial", "Para quem é a proposta e qual o valor?", "Escritório Sete Pedras, R$ 2.500 por mês", "Feito. A proposta está pronta para enviar."]
+}

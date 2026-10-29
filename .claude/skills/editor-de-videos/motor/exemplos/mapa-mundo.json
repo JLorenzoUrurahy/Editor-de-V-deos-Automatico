@@ -1,0 +1,10 @@
+{
+ "tipo": "mapa",
+ "layout": "tela",
+ "dur_s": 4.5,
+ "props": {"regiao": "mundo", "rotulo": "DO BRASIL PARA PORTUGAL", "foco": ["BR", "PT"],
+  "destaques": [{"pais": "BR", "em": 0.7}, {"pais": "PT", "em": 2.1}],
+  "rota": [{"pais": "BR"}, {"pais": "PT"}], "em_rota": 1.1,
+  "pinos": [{"pais": "BR", "rotulo": "BRASIL", "em": 0.8}, {"pais": "PT", "rotulo": "PORTUGAL", "em": 2.1}]},
+ "textos": ["DO BRASIL PARA PORTUGAL", "BRASIL", "PORTUGAL"]
+}

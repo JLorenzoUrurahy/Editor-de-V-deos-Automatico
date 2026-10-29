@@ -1,0 +1,7 @@
+{
+ "tipo": "funil",
+ "layout": "tela",
+ "dur_s": 3.6,
+ "props": {"etapas": [{"texto": "ATENÇÃO", "em": 0.3}, {"texto": "INTERESSE", "em": 0.8}, {"texto": "DESEJO", "em": 1.3}, {"texto": "AÇÃO", "em": 1.8}]},
+ "textos": ["ATENÇÃO", "INTERESSE", "DESEJO", "AÇÃO"]
+}

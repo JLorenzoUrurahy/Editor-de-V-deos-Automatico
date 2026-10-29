@@ -1,0 +1,14 @@
+{
+ "layout": "metade",
+ "dur_s": 2.4,
+ "props": {
+  "texto": "Não peça só um texto",
+  "apoio": "Dê o contexto",
+  "tipo": "negativo",
+  "em": 0.35
+ },
+ "textos": [
+  "Não peça só um texto",
+  "Dê o contexto"
+ ]
+}

@@ -1,0 +1,7 @@
+{
+ "tipo": "celular_3d",
+ "layout": "tela",
+ "dur_s": 3.6,
+ "props": {"rotulo": "TUDO NO CELULAR", "lado": "esquerda", "em": 0.9},
+ "textos": ["TUDO NO CELULAR"]
+}

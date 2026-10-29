@@ -1,0 +1,13 @@
+{
+ "tipo": "alerta",
+ "layout": "tela",
+ "dur_s": 2.4,
+ "props": {
+  "texto": "Isso funciona",
+  "tipo": "positivo",
+  "em": 0.35
+ },
+ "textos": [
+  "Isso funciona"
+ ]
+}

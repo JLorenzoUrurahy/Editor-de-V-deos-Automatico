@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {"variante": "seguir", "rotulo": "ME SEGUE", "em": 1.2},
+ "textos": ["ME SEGUE"]
+}

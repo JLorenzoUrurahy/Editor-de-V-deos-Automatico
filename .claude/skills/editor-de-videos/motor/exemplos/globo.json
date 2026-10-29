@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 3.8,
+ "props": {"pais": "PT", "pinos": [{"pais": "PT", "rotulo": "PORTUGAL"}]},
+ "textos": ["PORTUGAL"]
+}

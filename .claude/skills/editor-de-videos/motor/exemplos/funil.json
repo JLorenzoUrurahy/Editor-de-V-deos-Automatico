@@ -1,0 +1,8 @@
+{
+ "layout": "metade",
+ "dur_s": 4.0,
+ "props": {"rotulo": "DO SEGUIDOR AO CLIENTE", "etapas": [
+  {"texto": "VISUALIZAÇÕES", "valor": "10 MIL", "em": 0.3}, {"texto": "SEGUIDORES", "valor": "475", "em": 0.9},
+  {"texto": "CONVERSAS", "valor": "60", "em": 1.5}, {"texto": "CLIENTES", "valor": "12", "em": 2.1}]},
+ "textos": ["DO SEGUIDOR AO CLIENTE", "VISUALIZAÇÕES", "10 MIL", "SEGUIDORES", "475", "CONVERSAS", "60", "CLIENTES", "12"]
+}

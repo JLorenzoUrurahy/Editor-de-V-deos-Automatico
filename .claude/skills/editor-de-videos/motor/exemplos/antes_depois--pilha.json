@@ -1,0 +1,37 @@
+{
+ "tipo": "antes_depois",
+ "layout": "tela",
+ "dur_s": 3.8,
+ "props": {
+  "antes": {
+   "titulo": "antes",
+   "texto": "Tudo manual",
+   "icone": "Hand",
+   "itens": [
+    "copiar e colar",
+    "planilha"
+   ]
+  },
+  "depois": {
+   "titulo": "depois",
+   "texto": "Automático",
+   "icone": "Bot",
+   "itens": [
+    "um clique",
+    "relatório pronto"
+   ]
+  },
+  "em": 1.7,
+  "variante": "pilha"
+ },
+ "textos": [
+  "antes",
+  "Tudo manual",
+  "copiar e colar",
+  "planilha",
+  "depois",
+  "Automático",
+  "um clique",
+  "relatório pronto"
+ ]
+}

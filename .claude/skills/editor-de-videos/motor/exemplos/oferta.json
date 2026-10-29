@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 4.0,
+ "props": {"de": ["R$ 129", "R$ 179", "R$ 229", "R$ 299"], "por": "R$ 79", "rotulo": "PREÇO DE LANÇAMENTO", "em_por": 1.8},
+ "textos": ["R$ 129", "R$ 179", "R$ 229", "R$ 299", "R$ 79", "PREÇO DE LANÇAMENTO"]
+}

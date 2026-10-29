@@ -1,0 +1,75 @@
+{
+ "tipo": "titulo_cinetico",
+ "layout": "tela",
+ "dur_s": 3.6,
+ "props": {
+  "rotulo": "ROTINA",
+  "palavras": [
+   {
+    "texto": "Na",
+    "em": 0.3
+   },
+   {
+    "texto": "rotina",
+    "em": 0.45
+   },
+   {
+    "texto": "certa,",
+    "em": 0.6
+   },
+   {
+    "texto": "quem",
+    "em": 0.75
+   },
+   {
+    "texto": "publica",
+    "em": 1.0
+   },
+   {
+    "texto": "toda",
+    "em": 1.2
+   },
+   {
+    "texto": "semana",
+    "em": 1.6,
+    "destaque": true
+   },
+   {
+    "texto": "aprende",
+    "em": 1.75
+   },
+   {
+    "texto": "cada",
+    "em": 1.95
+   },
+   {
+    "texto": "vez",
+    "em": 2.1
+   },
+   {
+    "texto": "mais",
+    "em": 2.25
+   },
+   {
+    "texto": "rápido.",
+    "em": 2.45,
+    "destaque": true
+   }
+  ]
+ },
+ "textos": [
+  "ROTINA",
+  "Na",
+  "rotina",
+  "certa,",
+  "quem",
+  "publica",
+  "toda",
+  "semana",
+  "aprende",
+  "cada",
+  "vez",
+  "mais",
+  "rápido."
+ ]
+}

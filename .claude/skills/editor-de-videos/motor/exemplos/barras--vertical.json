@@ -1,0 +1,50 @@
+{
+ "tipo": "barras",
+ "layout": "tela",
+ "dur_s": 4.2,
+ "props": {
+  "rotulo": "VENDAS NA SEMANA",
+  "itens": [
+   {
+    "rotulo": "Seg",
+    "texto": "12",
+    "em": 0.5
+   },
+   {
+    "rotulo": "Ter",
+    "texto": "18",
+    "em": 0.9
+   },
+   {
+    "rotulo": "Qua",
+    "texto": "15",
+    "em": 1.3
+   },
+   {
+    "rotulo": "Qui",
+    "texto": "31",
+    "em": 1.7,
+    "destaque": true
+   },
+   {
+    "rotulo": "Sex",
+    "texto": "22",
+    "em": 2.1
+   }
+  ],
+  "variante": "vertical"
+ },
+ "textos": [
+  "VENDAS NA SEMANA",
+  "Seg",
+  "12",
+  "Ter",
+  "18",
+  "Qua",
+  "15",
+  "Qui",
+  "31",
+  "Sex",
+  "22"
+ ]
+}

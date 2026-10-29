@@ -1,0 +1,7 @@
+{
+ "tipo": "celular_3d",
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {"video": "midia/telas-rolagem.mp4"},
+ "textos": []
+}

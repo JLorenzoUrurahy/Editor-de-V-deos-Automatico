@@ -1,0 +1,21 @@
+{
+ "tipo": "na_mao",
+ "layout": "interage",
+ "foto": "rosto",
+ "dur_s": 3.0,
+ "rosto": {
+  "x": 301,
+  "y": 753,
+  "w": 456,
+  "h": 456
+ },
+ "props": {
+  "icone": "Sparkles",
+  "texto": "UM APP SÓ",
+  "em": 0.4
+ },
+ "textos": [
+  "UM APP SÓ"
+ ],
+ "n": 2
+}

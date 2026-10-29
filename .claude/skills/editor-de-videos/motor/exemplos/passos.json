@@ -1,0 +1,30 @@
+{
+ "layout": "metade",
+ "dur_s": 3.2,
+ "props": {
+  "titulo": "Como funciona",
+  "itens": [
+   {
+    "texto": "Grave na vertical",
+    "em": 0.4,
+    "icone": "Smartphone"
+   },
+   {
+    "texto": "Peça para a IA editar",
+    "em": 1.2,
+    "icone": "Bot"
+   },
+   {
+    "texto": "Poste no mesmo dia",
+    "em": 2.0,
+    "icone": "Send"
+   }
+  ]
+ },
+ "textos": [
+  "Como funciona",
+  "Grave na vertical",
+  "Peça para a IA editar",
+  "Poste no mesmo dia"
+ ]
+}

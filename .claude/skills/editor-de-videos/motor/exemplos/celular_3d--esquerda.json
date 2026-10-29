@@ -1,0 +1,7 @@
+{
+ "tipo": "celular_3d",
+ "layout": "metade",
+ "dur_s": 3.0,
+ "props": {"imagem": "midia/telas-app.png", "rotulo": "O APP QUE EU USO TODO DIA", "lado": "esquerda", "em": 0.8},
+ "textos": ["O APP QUE EU USO TODO DIA"]
+}

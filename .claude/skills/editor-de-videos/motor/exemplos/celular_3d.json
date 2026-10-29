@@ -1,0 +1,6 @@
+{
+ "layout": "metade",
+ "dur_s": 3.6,
+ "props": {"imagem": "midia/telas-app.png", "rotulo": "GRAVEI COM O MEU CELULAR", "em": 0.9},
+ "textos": ["GRAVEI COM O MEU CELULAR"]
+}
